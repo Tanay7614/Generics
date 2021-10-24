@@ -29,7 +29,7 @@ package Sample;
 			System.out.printf("max of %s, %s, and %s is %s \n",x,y,z,max);
 			
 		}
-	/*	public static String testMaximum(String x,String y,String z) {
+		public static String testMaximum(String x,String y,String z) {
 			String max=x;
 			if(y.compareTo(x)>0) {
 				max=y;
@@ -39,7 +39,7 @@ package Sample;
 			}
 			printMax(x, y, z,max);
 			return max;
-		}*/
+		}
 		
 }
 		
